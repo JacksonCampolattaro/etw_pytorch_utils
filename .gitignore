@@ -5,4 +5,5 @@ dist/
 **/*.pyc
 .tox/
 poetry.lock
+uv.lock
 pip-*
